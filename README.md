@@ -18,4 +18,3 @@ Documentação <https://github.com/dashboard>
 - comitar o projeto no git <git commit -m "nome do que esta fazendo no projeto">
 - fazer login no github <git push --set-upstream origin master>
 - enviar para o github <git remote add origin "colar aqui endereço do repositorio criado no githut"
-- Primeira
