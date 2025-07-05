@@ -1,0 +1,13 @@
+[24-Nov-2023 13:13:37 UTC] PHP Notice:  Undefined index: loggedin in /home/apktopco/public_html/protv/index.php on line 5
+[24-Nov-2023 13:13:44 UTC] PHP Notice:  Undefined index: loggedin in /home/apktopco/public_html/protv/index.php on line 5
+[24-Nov-2023 14:06:07 UTC] PHP Notice:  Undefined variable: bad_status_codes in /home/apktopco/public_html/protv/player_api.php on line 97
+[24-Nov-2023 14:14:45 UTC] PHP Notice:  Undefined index: loggedin in /home/apktopco/public_html/protv/index.php on line 5
+[24-Nov-2023 14:38:45 UTC] PHP Notice:  Undefined variable: bad_status_codes in /home/apktopco/public_html/protv/player_api.php on line 97
+[24-Nov-2023 14:41:13 UTC] PHP Notice:  Undefined variable: bad_status_codes in /home/apktopco/public_html/protv/player_api.php on line 97
+[24-Nov-2023 14:46:08 UTC] PHP Notice:  Undefined variable: bad_status_codes in /home/apktopco/public_html/protv/player_api.php on line 97
+[24-Nov-2023 19:03:56 UTC] PHP Notice:  Undefined index: loggedin in /home/apktopco/public_html/protv/index.php on line 5
+[24-Nov-2023 19:04:00 UTC] PHP Notice:  Undefined index: loggedin in /home/apktopco/public_html/protv/index.php on line 5
+[24-Nov-2023 19:05:47 UTC] PHP Notice:  Undefined variable: bad_status_codes in /home/apktopco/public_html/protv/player_api.php on line 97
+[24-Nov-2023 19:09:32 UTC] PHP Notice:  Undefined variable: bad_status_codes in /home/apktopco/public_html/protv/player_api.php on line 97
+[24-Nov-2023 19:09:55 UTC] PHP Notice:  Undefined variable: bad_status_codes in /home/apktopco/public_html/protv/player_api.php on line 97
+[24-Nov-2023 19:13:39 UTC] PHP Notice:  Undefined variable: bad_status_codes in /home/apktopco/public_html/protv/player_api.php on line 97
